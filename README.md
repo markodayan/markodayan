@@ -18,7 +18,7 @@ I am a Software Engineer from South Africa 🇿🇦, orginally from a Mechatroni
 - 💻 <b>Full-Stack Developer</b>: I have experience building web, mobile and browser applications and various types of backend services.
 - 🛠 <b>DevOps Practitioner</b>: I have experience with deploying applications/services on virtual machines, managed app engines and setting up reliable CI/CD pipelines.
 - 🤓 <b>Research Interests</b>: computational and complexity theory, mathematics, distributed systems, protocol engineering and cryptography.
-- 🧪 I actively work on building tooling within the Ethereum ecosystem.
+- 🧪 <b>Building Interests</b>: I am actively work on building tooling and services within the Ethereum ecosystem.
 
 
 <br/>
