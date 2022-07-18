@@ -13,26 +13,51 @@
 
 ### :man_technologist: &nbsp;About Me :
 
-I am a Software Engineer from South Africa 🇿🇦, orginally from a Mechatronics Engineering background. I enjoy learning about computer science, mathematics, systems engineering, and building solutions to complex problems.
+I am a Software Engineer from South Africa 🇿🇦, orginally from a Mechatronics Engineering background. I enjoy learning about computer science, mathematics, systems engineering, and building products and solutions. I consider myself someone with a deep desire to understand how various technologies and mechanisms work and whether we can develop improvements to solve existing problems.
 
-- 🛠 I am a proficient full-stack developer with experience building web, mobile and browser applications and various types of backend services. Furthermore I am capable of deploying applications in various environments ranging from managed app engines to cloud virtual machines and setting up reliable continuous integration and delivery for deployment.
-- 🌱 Exploring Technical Content Writing.
-- 👷🏾‍♂️ In my free time I work on a suite of tools known as <a href="https://gastly.tools" target="_blank" rel="noopener">Gastly</a>, delivering real-time Ethereum blockspace and fee market analytics to users (over browser extension and web applications).
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-markodayan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mark-odayan-5a898286/)
+- 💻 <b>Full-Stack Developer</b>: I have experience building web, mobile and browser applications and various types of backend services.
+- 🛠 <b>DevOps Practitioner</b>: I have experience with deploying applications/services on virtual machines, managed app engines and setting up reliable CI/CD pipelines.
+- 🤓 I research around topics such as computational and complexity theory, mathematics, distributed systems, protocol engineering and cryptography.
+- 🧪 I actively work on building tooling within the Ethereum ecosystem.
 
 
 <br/>
+
+### My Projects:
+[Gastly](https://gastly.tools) is a live service I have made to deliver real-time gas prices and fee information about the Ethereum network. There are currently 2 types of clients available: i) Browser Extension Client (available on Chromium and Firefox browsers), ii) Web Client [gastly.tools](https://gastly.tools) 
+
+- Gastly has received funding via quadratic funding initiatives set up by [Gitcoin](https://gitcoin.co/grants/3562/gastly-gas-price-chrome-extension)
+- A knowledge base is currently being worked on to educate newcomers to concepts about Ethereum transactions and how congestion management works in a permissionless network (concepts around algorithmic guarantees of 'social optimality').
 
 ---
 
 ### 🛠 &nbsp;Languages and Tools :
 
 <p>
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Golang" alt="Go" width="40" height="40"/>&nbsp;
+
+  
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" title="GraphQL" alt="GraphQL" width="40" height="40"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/> 
+  
+  
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="Nginx" alt="Nginx" width="40" height="40"/>
+  
+  
+<img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="GCP" alt="GCP" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/digitalocean/digitalocean-original.svg" title="Digital Ocean" alt="Digital Ocean" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" title="Heroku" alt="Heroku" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+
+  
+<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
+  
 </p>
 
 ---
