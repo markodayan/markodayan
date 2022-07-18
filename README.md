@@ -11,13 +11,13 @@
   </a>
 </div>
 
-### :man_technologist: &nbsp;About Me :
+### :man_technologist: &nbsp;About Me:
 
 I am a Software Engineer from South Africa 🇿🇦, orginally from a Mechatronics Engineering background. I enjoy learning about computer science, mathematics, systems engineering, and building products and solutions. Welcome to my GitHub 😊.
 
 - 💻 <b>Full-Stack Developer</b>: I have experience building web, mobile and browser applications and various types of backend services.
 - 🛠 <b>DevOps Practitioner</b>: I have experience with deploying applications/services on virtual machines, managed app engines and setting up reliable CI/CD pipelines.
-- 🤓 I research around topics such as computational and complexity theory, mathematics, distributed systems, protocol engineering and cryptography.
+- 🤓 <b>Research Interests</b>: computational and complexity theory, mathematics, distributed systems, protocol engineering and cryptography.
 - 🧪 I actively work on building tooling within the Ethereum ecosystem.
 
 
@@ -33,7 +33,7 @@ I am a Software Engineer from South Africa 🇿🇦, orginally from a Mechatroni
 
 ---
 
-### 🛠 &nbsp;Languages and Tools :
+### 🛠 &nbsp;Languages and Tools:
 
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
