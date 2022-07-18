@@ -28,7 +28,7 @@ I am a Software Engineer from South Africa 🇿🇦, orginally from a Mechatroni
 ### 💡 My Projects:
 [Gastly](https://gastly.tools) is a live service I have made to deliver real-time gas prices and fee information about the Ethereum network. There are currently 2 types of clients available: i) Browser Extension Client (available on Chromium and Firefox browsers), ii) Web Client [gastly.tools](https://gastly.tools) 
 
-- Gastly has received funding via quadratic funding initiatives set up by [Gitcoin](https://gitcoin.co/grants/3562/gastly-gas-price-chrome-extension)
+- Gastly has received funding via quadratic funding initiatives set up by [Gitcoin](https://gitcoin.co/grants/3562/gastly-gas-price-chrome-extension).
 - A knowledge base is currently being worked on to educate newcomers to concepts about Ethereum transactions and how congestion management works in a permissionless network (concepts around algorithmic guarantees of 'social optimality').
 
 ---
