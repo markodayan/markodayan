@@ -75,7 +75,7 @@ I am a Software Engineer from South Africa 🇿🇦, orginally from a Mechatroni
 <p align="center">UI Design/Prototyping</p>
 <p align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
+  <img src="./adobexd.png" title="AdobeXD" alt="AdobeXD" width="40" height="40"/>&nbsp;
 </p>
 </p>
 
