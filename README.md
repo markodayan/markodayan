@@ -13,7 +13,7 @@
 
 ### :man_technologist: &nbsp;About Me:
 
-I am a Software Engineer from South Africa 🇿🇦, orginally from a Mechatronics Engineering background. I enjoy learning about computer science, mathematics, systems engineering, and building products and solutions. Welcome to my GitHub 😊.
+I am a Software Engineer from South Africa 🇿🇦, originally from a Mechatronics Engineering background. I enjoy learning about computer science, mathematics, systems engineering, and like building stuff. Welcome to my GitHub 😊.
 
 - 💻 <b>Full-Stack Developer</b>: I have experience building web, mobile and browser applications and various types of backend services.
 - 🛠 <b>DevOps Practitioner</b>: I have experience with deploying applications/services on virtual machines, managed app engines and setting up reliable CI/CD pipelines.
