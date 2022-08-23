@@ -37,6 +37,13 @@ I am a Software Engineer from South Africa 🇿🇦, originally from a Mechatron
 
 ---
 
+## Technical Writing Published
+
+**[⚙️ A Comprehensive Guide to RLP Encoding in Ethereum
+](https://medium.com/@markodayansa/a-comprehensive-guide-to-rlp-encoding-in-ethereum-6bd75c126de0)** <br> *A blog post diving into data serialisation methods utilised by Ethereum execution clients with verbose examples*
+
+---
+
 ### 🛠 &nbsp;Languages and Tools:
 
 <p>
