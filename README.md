@@ -2,7 +2,7 @@
 <br/>
 
 <div id="badges">
-  <a href="https://twitter.com/mark_mkzo" target="blank"><img src="https://img.shields.io/twitter/follow/mark_mkzo?logo=twitter&style=for-the-badge"  alt="mark_mkzo" /></a>
+  <a href="https://twitter.com/markodayan" target="blank"><img src="https://img.shields.io/twitter/follow/markodayan?logo=twitter&style=for-the-badge"  alt="markodayan" /></a>
   <a href="https://www.linkedin.com/in/mark-odayan-5a898286/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
