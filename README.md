@@ -2,19 +2,18 @@
 <br/>
 
 <div style="padding: 30px;">
-  <a href="https://odayan.xyz" target="blank"><img src="https://img.shields.io/badge/Portfolio_Website-odayan.xyz-3C596A?style=for-the-badge&labelColor=0B151C&logo=google-chrome&logoColor=white"  alt="markodayan" /></a>
+  <a href="https://odayan.xyz" target="blank"><img src="https://img.shields.io/badge/Portfolio_Website-odayan.xyz-3C596A?style=for-the-badge&labelColor=0B151C&logo=google-chrome&logoColor=white"  alt="markodayan" /></a>   <a href="https://gastly.tools" target="blank"><img src="https://img.shields.io/badge/Gastly_Product_Website-gastly.tools-0D3C58?style=for-the-badge&labelColor=0B151C&logo=ghost&logoColor=white"  alt="markodayan" /></a>
 </div>
 
-<br />
-
-<div style="padding: 30px;">
-  <a href="https://gastly.tools" target="blank"><img src="https://img.shields.io/badge/Gastly_Product_Website-gastly.tools-0D3C58?style=for-the-badge&labelColor=0B151C&logo=ghost&logoColor=white"  alt="markodayan" /></a>
-</div>
 
 
 <br />
 
-<div id="badges">
+
+
+
+
+<div  id="badges">
   
   <a href="https://twitter.com/markodayan" target="_blank">
   <img src="https://img.shields.io/badge/X-@markodayan-000000?style=for-the-badge&logo=x&logoColor=white" />
