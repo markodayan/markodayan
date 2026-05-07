@@ -13,7 +13,7 @@
 
 
 
-<div  id="badges">
+<!-- <div  id="badges">
   
   <a href="https://twitter.com/markodayan" target="_blank">
   <img src="https://img.shields.io/badge/X-@markodayan-000000?style=for-the-badge&logo=x&logoColor=white" />
@@ -24,12 +24,12 @@
   <a href="https://www.youtube.com/channel/UCwadJ4N-dnKvySMaiXf4SIg">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-</div>
+</div> -->
 
 
 ### :man_technologist: &nbsp;About Me:
 
-I am a software developer from South Africa 🇿🇦 from a mechatronics engineering background. My areas of interest include distributed systems, systems engineering and computing. Welcome to my GitHub 😊.
+Software engineer from South Africa with a mechatronics engineering background.
 
 - 💻 <b>Full-Stack Development</b>: Experienced with building products and services. Whether its client-side development, backend development or anywhere requiring an understanding of how sub-components of a system need to sync with one another in the global context of the entire product, I understand software lifecycles and how to approach managing any dynamic system.  
 - 🛠 <b>System Design, Deployment and Monitoring</b>: Experienced with deploying real systems with various moving parts on dedicated servers and managing production environments. I Prioritise implementing and managing productive CI/CD pipelines to guarantee reliable and observable system upgrade transitions. I use monitoring and observability to its best effects to learn system health and establish reference points to measure how changes in inputs or system implementation details influence system properties and guarantees.
