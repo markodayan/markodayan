@@ -23,7 +23,7 @@
 **[⚙️ EIP-1559: Separating Mechanisms From Memes
 ](https://odayan.substack.com/p/eip-1559-separating-mechanisms-from)** <br> *A technical and economic analysis of EIP-1559 and transaction fee mechanism design in Ethereum (Reviewed by Vitalik Buterin, as well as researchers from the Ethereum Foundation, Offchain Labs, L2Beat)*
 
-**[⚙️ The Year Ahead for Infrastructure 2024 - Delphi Digital](https://members.delphidigital.io/reports/the-year-ahead-for-infrastructure-2024#l2-wars-426e) Year-end infrastructure report with Delphi Digital. I wrote the Ethereum roadmap section covering a variety of technical topics from blob-carrying transactions to future roadmap items.
+[⚙️ **The Year Ahead for Infrastructure 2024 - Delphi Digital**](https://members.delphidigital.io/reports/the-year-ahead-for-infrastructure-2024#l2-wars-426e) <br/> Year-end infrastructure report with Delphi Digital. I wrote the Ethereum roadmap section covering a variety of technical topics from blob-carrying transactions to future roadmap items.
 
 **[⚙️ Resource Pricing and TFM Design in Ethereum (Part 1 - Blockchain Resources)
 ](https://odayan.substack.com/p/resource-pricing-and-tfms-part-1)** <br> *A technical article that dives into computational and economic modelling of the Ethereum network, exploring how resources are priced, measured and allocated in its decentralised network setting*
